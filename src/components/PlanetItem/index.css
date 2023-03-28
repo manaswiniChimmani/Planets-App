@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.img {
+  width: 500px;
+}
+.name {
+  color: #f8fafc;
+  font-size: 18px;
+}
+.description {
+  color: #f1f5f9;
+  font-size: 13px;
+}
